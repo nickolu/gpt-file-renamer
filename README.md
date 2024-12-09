@@ -72,3 +72,4 @@ python rename_file.py ~/Documents/game_files
 - If a suggested filename already exists, the script will append a number to prevent overwriting
 - Progress updates will be displayed in the console during processing
 - Customize the renaming behavior by modifying `config.py`
+- **Strongly recommend running the script on a test folder first to ensure it works as expected**
